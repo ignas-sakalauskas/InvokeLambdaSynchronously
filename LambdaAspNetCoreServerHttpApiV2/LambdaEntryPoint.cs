@@ -7,7 +7,7 @@ namespace LambdaAspNetCoreServerHttpApiV2
     /// This class extends from APIGatewayProxyFunction which contains the method FunctionHandlerAsync which is the 
     /// actual Lambda function entry point. The Lambda handler field should be set to
     /// 
-    /// LambdaAspNetCoreServer::LambdaAspNetCoreServer.LambdaEntryPoint::FunctionHandlerAsync
+    /// LambdaAspNetCoreServerHttpApiV2::LambdaAspNetCoreServerHttpApiV2.LambdaEntryPoint::FunctionHandlerAsync
     /// </summary>
     public class LambdaEntryPoint :
 
